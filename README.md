@@ -19,6 +19,8 @@
   <code><img title="Python" height="35" src="images/python-original.svg"></code>
   <code><img title="Django" height="35" src="images/django.png"></code>
   <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+  <code><img title="TypeScript" height="35" src="images/typescript.svg"></code>
+  <code><img title="AWS" height="35" src="images/aws.svg"></code>
   <code><img title="Problem Solving" height="35" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="35" src="images/html5.svg"></code>
   <code><img title="CSS" height="35" src="images/css.svg"></code>
