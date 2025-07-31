@@ -50,8 +50,6 @@
 </div>
 
 <div align="center">
-  <img src="images/linkedin.svg" alt="LinkedIn" height="50" />
-  <img src="images/leetcode.png" alt="LeetCode" height="50" />
+  <img src="images/gameover.png" alt="Game Over" />
 </div>
-
 
