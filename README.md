@@ -10,30 +10,26 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom GIF" />
 </div>
-
-<div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; font-size: 24px; margin: 20px 0;">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-</div>
-<br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Spring Boot" height="25" src="images/Springboot.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="C" height="35" src="images/c.svg"></code>
+  <code><img title="Java" height="35" src="images/java-original.svg"></code>
+  <code><img title="Spring Boot" height="35" src="images/Springboot.svg"></code>
+  <code><img title="Go" height="35" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
+  <code><img title="Python" height="35" src="images/python-original.svg"></code>
+  <code><img title="Django" height="35" src="images/django.png"></code>
+  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="35" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="35" src="images/html5.svg"></code>
+  <code><img title="CSS" height="35" src="images/css.svg"></code>
+  <code><img title="React" height="35" src="images/react-original.svg"></code>
+  <code><img title="AngularJS" height="35" src="images/angularjs.png"></code>
+  <code><img title="Git" height="35" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="35" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
+  <code><img title="JSON" height="35" src="images/json.svg"></code>
+  <code><img title="Android" height="35" src="images/android.svg"></code>
+  <code><img title="GitHub" height="35" src="images/github.svg"></code>
+  <code><img title="MySQL" height="35" src="images/mysql.svg"></code>
+  <code><img title="npm" height="35" src="images/npm.svg"></code>
 </p>
 
