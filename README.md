@@ -33,4 +33,7 @@
   <code><img title="MySQL" height="35" src="images/mysql.svg"></code>
   <code><img title="npm" height="35" src="images/npm.svg"></code>
 </p>
+<div align="center">
+  <img src="https://github.com/Rajesh-Nagarajan-11/Rajesh-Nagarajan-11/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
 
