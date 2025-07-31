@@ -4,5 +4,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FFFFFF&center=true&multiline=true&width=500&height=120&separator=%3C&lines=System.out.println(%22Rajesh+Nagarajan%22);%3CSoftware+Engineer%3COpen+Source+Contributer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=000000&center=true&multiline=true&width=500&height=120&separator=%3C&lines=System.out.println(%22Rajesh+Nagarajan%22);%3CSoftware+Engineer%3COpen+Source+Contributer" alt="Typing SVG" />
   </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" alt="Right GIF" width="140" height="" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom GIF" />
 </div>
 
