@@ -36,7 +36,6 @@
 <div align="center">
   <img src="https://github.com/Rajesh-Nagarajan-11/Rajesh-Nagarajan-11/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
-
 <br>
 
 <div align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center; margin: 0 100px;">
