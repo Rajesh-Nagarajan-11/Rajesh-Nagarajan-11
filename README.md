@@ -52,12 +52,16 @@
     <img src="images/Badges/heroicon-animation.dd8cd700.gif" alt="HeroIcon Animation" height="75px">
   </a>
 </div>
+<br><br><br>
 
-<p style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank">
-    <img src="images/Badges/lvl1-human.webp" alt="Level 1 Human Badge" height="120" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge"></a>
+</div>
 
 
 
