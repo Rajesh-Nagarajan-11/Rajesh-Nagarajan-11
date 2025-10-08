@@ -45,18 +45,17 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-Nagarajan-11&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" alt="GitHub Streak Stats" />
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Final GIF" />
-</div>
-
-<h2 align="center">🏆 Achievements 🏆</h2>
-<div align="center">
-  <img src="images/Badges/lvl1-human.webp" alt="Level 1 Human Badge" width="150" />
-</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom GIF" />
+  <img src="images/Badges/achievement_1312299.png" alt="Achievement Badge" height="120" />
 </div>
+
+<p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="images/Badges/lvl1-human.webp" alt="Level 1 Human Badge" height="80" />
+</p>
+
+
+
 
 
 
