@@ -48,7 +48,9 @@
 <br> <br>
 
 <div align="center">
-  <img src="images/Badges/heroicon-animation.dd8cd700.gif" alt="HeroIcon Animation" height="75px">
+  <a href="https://hacktoberfest.com/" target="_blank">
+    <img src="images/Badges/heroicon-animation.dd8cd700.gif" alt="HeroIcon Animation" height="75px">
+  </a>
 </div>
 
 <p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
