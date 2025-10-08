@@ -45,13 +45,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-Nagarajan-11&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" alt="GitHub Streak Stats" />
 </div>
+<br> <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom GIF" />
-</div>
-
-<div align="center">
-  <img src="images/Badges/heroicon-animation.dd8cd700.gif" alt="HeroIcon Animation" height="100px">
+  <img src="images/Badges/heroicon-animation.dd8cd700.gif" alt="HeroIcon Animation" height="75px">
 </div>
 
 <p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -59,6 +56,7 @@
     <img src="images/Badges/lvl1-human.webp" alt="Level 1 Human Badge" height="120" />
   </a>
 </p>
+
 
 
 
