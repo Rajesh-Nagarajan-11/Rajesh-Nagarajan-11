@@ -51,11 +51,7 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/Badges/HF-Stacked-Color-Light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/Badges/HF-Stacked-Color-Dark.svg">
-    <img src="images/Badges/HF-Stacked-Color-Dark.svg" alt="Hacktoberfest Badge" height="70px">
-  </picture>
+  <img src="images/Badges/heroicon-animation.dd8cd700.gif" alt="HeroIcon Animation" height="100px">
 </div>
 
 <p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
