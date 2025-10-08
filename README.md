@@ -47,11 +47,21 @@
 </div>
 
 <div align="center">
-  <img src="images/Badges/achievement_1312299.png" alt="Achievement Badge" height="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom GIF" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/Badges/HF-Stacked-Color-Light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/Badges/HF-Stacked-Color-Dark.svg">
+    <img src="images/Badges/HF-Stacked-Color-Dark.svg" alt="Hacktoberfest Badge" height="70px">
+  </picture>
 </div>
 
 <p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="images/Badges/lvl1-human.webp" alt="Level 1 Human Badge" height="80" />
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank">
+    <img src="images/Badges/lvl1-human.webp" alt="Level 1 Human Badge" height="80" />
+  </a>
 </p>
 
 
