@@ -53,11 +53,12 @@
   </a>
 </div>
 
-<p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<p style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank">
     <img src="images/Badges/lvl1-human.webp" alt="Level 1 Human Badge" height="120" />
   </a>
 </p>
+
 
 
 
