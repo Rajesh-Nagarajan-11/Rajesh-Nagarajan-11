@@ -55,12 +55,12 @@
 <br><br><br>
 
 <div align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge" hspace="15"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="125" height="125" alt="Level 1 Human Badge"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="100" height="100" alt="Level 1 Human Badge" hspace="10"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="100" height="100" alt="Level 1 Human Badge" hspace="10"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="100" height="100" alt="Level 1 Human Badge" hspace="10"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="100" height="100" alt="Level 1 Human Badge" hspace="10"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="100" height="100" alt="Level 1 Human Badge" hspace="10"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="100" height="100" alt="Level 1 Human Badge"></a>
 </div>
 
 
