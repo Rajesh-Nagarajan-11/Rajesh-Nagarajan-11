@@ -59,6 +59,7 @@
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79ht7004gjr04p8uesi4s" target="_blank"><img src="images/Badges/lvl2-human.webp" width="120" height="120" alt="Level 2 Human Badge" hspace="7.5"></a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79yol000ylg042fxx8b0d" target="_blank"><img src="images/Badges/lvl3-human.webp" width="120" height="120" alt="Level 3 Human Badge" hspace="7.5"></a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgiaiqhx0064ju04bmu6tbfr" target="_blank"><img src="images/Badges/lvl4-human.webp" width="120" height="120" alt="Level 4 Human Badge" hspace="7.5"></a>
+   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgj1ia0o002njr04wddv1hc8" target="_blank"><img src="images/Badges/lvl5-human.webp" width="120" height="120" alt="Level 5 Human Badge" hspace="7.5"></a>
 </div>
 
 
