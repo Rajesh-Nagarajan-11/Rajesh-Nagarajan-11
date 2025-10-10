@@ -63,7 +63,7 @@
 </div>
 <div align="center">
    <a href="https://cloud.layer5.io/user/e5895ce4-fbe3-4bf4-a34e-3e9cd5a4f8d7?tab=badges&badge=hacktoberfest25">
-    <img width="224px" height="224px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest2025-badge.png" alt="Hacktoberfest 2025 Contributor"/>
+    <img width="170px" height="254px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest2025-badge.png" alt="Hacktoberfest 2025 Contributor"/>
   </a>
 </div>
 
