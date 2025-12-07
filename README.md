@@ -66,6 +66,14 @@
     <img width="170px" height="254px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://buymeacoffee.com/rajesh.nagarajan">
+    <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="BuyMeACoffee" />
+  </a>
+</div>
+
+
+
 
 
 
