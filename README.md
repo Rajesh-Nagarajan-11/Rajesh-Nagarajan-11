@@ -43,7 +43,7 @@
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 32px;">
   <img style="min-width: 480px; height: 270px;" src="https://github-readme-stats-fast.vercel.app/api?username=Rajesh-Nagarajan-11&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img style="min-width: 380px; height: 220px;" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rajesh-Nagarajan-11&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,PLpgSQL&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=0d1117&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img style="min-width: 380px; height: 230px;" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rajesh-Nagarajan-11&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,PLpgSQL&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=0d1117&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -75,6 +75,7 @@
     <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="BuyMeACoffee" />
   </a>
 </div>
+
 
 
 
