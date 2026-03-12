@@ -87,8 +87,8 @@ jobs:
             exit 1
           fi
 
-          W="$(identify -format '%w' "$IN" | head -n 1)"
-          H="$(identify -format '%h' "$IN" | head -n 1)"
+          W="$(identify -ping -format '%w\n' "${IN}[0]" | head -n 1)"
+          H="$(identify -ping -format '%h\n' "${IN}[0]" | head -n 1)"
           CROP_BOTTOM_PX="${CROP_BOTTOM_PX:-80}"
           NEW_H="$((H - CROP_BOTTOM_PX))"
 
