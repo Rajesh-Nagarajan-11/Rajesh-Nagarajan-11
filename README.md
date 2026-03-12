@@ -21,7 +21,7 @@
   <code><img title="npm" height="35" src="images/npm.svg"></code>
 </p>
 <div align="center">
-  <img src="images/snake-dark-cropped.svg" alt="snake gif" />
+  <img src="https://github.com/Rajesh-Nagarajan-11/Rajesh-Nagarajan-11/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 <br>
 
@@ -46,7 +46,6 @@
     <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="BuyMeACoffee" />
   </a>
 </div>
-
 
 
 
