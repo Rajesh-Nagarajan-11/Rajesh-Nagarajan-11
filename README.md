@@ -21,7 +21,7 @@
   <code><img title="npm" height="35" src="images/npm.svg"></code>
 </p>
 <div align="center">
-  <img src="https://github.com/Rajesh-Nagarajan-11/Rajesh-Nagarajan-11/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Rajesh-Nagarajan-11/Rajesh-Nagarajan-11/output/github-snake-dark.gif" alt="snake gif" />
 </div>
 <br>
 
