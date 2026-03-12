@@ -1,18 +1,13 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Left GIF" width="180" height="180" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FFFFFF&center=true&multiline=true&width=500&height=120&separator=%3C&lines=System.out.println(%22Rajesh+Nagarajan%22);%3CSoftware+Engineer%3COpen+Source+Contributer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=000000&center=true&multiline=true&width=500&height=120&separator=%3C&lines=System.out.println(%22Rajesh+Nagarajan%22);%3CSoftware+Engineer%3COpen+Source+Contributer" alt="Typing SVG" />
-  </picture>
+ 
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" alt="Right GIF" width="140" height="" />
 </div>
 <p align="center">
   <code><img title="C" height="35" src="images/c.svg"></code>
   <code><img title="Java" height="35" src="images/java-original.svg"></code>
-  <code><img title="Spring Boot" height="35" src="images/Springboot.svg"></code>
   <code><img title="Go" height="35" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
   <code><img title="Python" height="35" src="images/python-original.svg"></code>
-  <code><img title="Django" height="35" src="images/django.png"></code>
   <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
   <code><img title="TypeScript" height="35" src="images/typescript.svg"></code>
   <code><img title="AWS" height="32" src="images/aws1.svg"></code>
@@ -22,7 +17,6 @@
   <code><img title="React" height="35" src="images/react-original.svg"></code>
   <code><img title="AngularJS" height="35" src="images/angularjs.png"></code>
   <code><img title="Git" height="35" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="35" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
   <code><img title="JSON" height="35" src="images/json.svg"></code>
   <code><img title="Android" height="35" src="images/android.svg"></code>
@@ -53,6 +47,7 @@
     <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="BuyMeACoffee" />
   </a>
 </div>
+
 
 
 
