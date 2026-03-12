@@ -65,40 +65,16 @@ jobs:
           # Define the output files and their configurations
 
           outputs: |
-            dist/github-snake-dark.gif?palette=github-dark&color_snake=#39d353&color_dots=#39d353,#26a641,#0e4429
+
+            dist/github-snake.svg
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
         env:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Install ImageMagick
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
-
-      - name: Crop loader/progress bar from GIF
-        run: |
-          set -euo pipefail
-          IN="dist/github-snake-dark.gif"
-          TMP="dist/github-snake-dark-cropped.gif"
-
-          if [ ! -f "$IN" ]; then
-            echo "GIF not found: $IN"
-            exit 1
-          fi
-
-          W="$(identify -ping -format '%w\n' "${IN}[0]" | head -n 1)"
-          H="$(identify -ping -format '%h\n' "${IN}[0]" | head -n 1)"
-          CROP_BOTTOM_PX="${CROP_BOTTOM_PX:-80}"
-          NEW_H="$((H - CROP_BOTTOM_PX))"
-
-          if [ "$NEW_H" -le 0 ]; then
-            echo "Invalid crop: H=$H CROP_BOTTOM_PX=$CROP_BOTTOM_PX"
-            exit 1
-          fi
-
-          convert "$IN" -coalesce -crop "${W}x${NEW_H}+0+0" +repage -layers Optimize "$TMP"
-          mv "$TMP" "$IN"
 
 
 
