@@ -6,9 +6,6 @@
   </picture>
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" alt="Right GIF" width="140" height="" />
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom GIF" />
-</div>
 <p align="center">
   <code><img title="C" height="35" src="images/c.svg"></code>
   <code><img title="Java" height="35" src="images/java-original.svg"></code>
@@ -51,30 +48,14 @@
 </div>
 <br> <br>
 
-<div align="center">
-  <a href="https://hacktoberfest.com/" target="_blank">
-    <img src="images/Badges/heroicon-animation.dd8cd700.gif" alt="HeroIcon Animation" height="75px">
-  </a>
-</div>
 <br><br><br>
 
-<div align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmghvqgk9003fjo0471bw2prt" target="_blank"><img src="images/Badges/lvl1-human.webp" width="130" height="130" alt="Level 1 Human Badge" hspace="7.5"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79ht7004gjr04p8uesi4s" target="_blank"><img src="images/Badges/lvl2-human.webp" width="130" height="130" alt="Level 2 Human Badge" hspace="7.5"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79yol000ylg042fxx8b0d" target="_blank"><img src="images/Badges/lvl3-human.webp" width="130" height="130" alt="Level 3 Human Badge" hspace="7.5"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgiaiqhx0064ju04bmu6tbfr" target="_blank"><img src="images/Badges/lvl4-human.webp" width="130" height="130" alt="Level 4 Human Badge" hspace="7.5"></a>
-   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgj1ia0o002njr04wddv1hc8" target="_blank"><img src="images/Badges/lvl5-human.webp" width="130" height="130" alt="Level 5 Human Badge" hspace="7.5"></a>
-</div>
-<div align="center">
-  <a href="https://cloud.layer5.io/user/e5895ce4-fbe3-4bf4-a34e-3e9cd5a4f8d7?tab=badges&badge=hacktoberfest25">
-    <img width="170px" height="254px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
-  </a>
-</div>
 <div align="center">
   <a href="https://buymeacoffee.com/rajesh.nagarajan">
     <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="BuyMeACoffee" />
   </a>
 </div>
+
 
 
 
