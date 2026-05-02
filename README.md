@@ -34,10 +34,10 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Left GIF" width="180" height="180" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-Nagarajan-11&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" alt="GitHub Streak Stats" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" alt="Right GIF" width="140" height="" />
+ 
 </div>
 <br> <br>
 
@@ -47,7 +47,8 @@
   </a>
 </div>
 
-
+
+
 
 
 
